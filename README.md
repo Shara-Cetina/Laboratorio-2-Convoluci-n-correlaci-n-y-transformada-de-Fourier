@@ -4,7 +4,7 @@
 Este proyecto contiene el código y la información para comprender la convolución y correlación de señales, además de analizar y caracterizar señales biomédicas con ayuda de la transformada de Fourier.
 ## Propósito (JUANITA)
 ## Metodología (JUANITA)
-## Diagrama de flujo 
+## Diagrama de flujo (JUANITA)
 ## Parte A
 ## Parte B
 ### ¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales? 
