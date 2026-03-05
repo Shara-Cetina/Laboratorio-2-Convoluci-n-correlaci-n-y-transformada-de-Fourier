@@ -28,7 +28,7 @@ Parte C
 <img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/f144d27f-1b10-439f-9899-811cc3e4d650" />
 <img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/c5350d2a-6bee-41de-8e28-2d0f225576db" />
 
-## Análisis de Estadíssticos (JUANITA)
+## Análisis Estadístico (JUANITA)
 
 ## Análisis de Resultados: (SHARA)
 
