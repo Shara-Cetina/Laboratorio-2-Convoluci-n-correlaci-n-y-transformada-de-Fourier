@@ -4,20 +4,20 @@
 ## Descripción
 Este proyecto contiene el código y la información para comprender la convolución y correlación de señales, además de analizar y caracterizar señales biomédicas con ayuda de la transformada de Fourier.
 
-## Propósito (JUANITA)
+## Propósito 
 <p align="justify">
 El propósito de este laboratorio es lograr que el estudiante adquiera las capacidades necesarias para aplicar la convolución, la correlación y la Transformada de Fourier en el procesamiento de señales digitales. Se busca que se comprenda la convolución como una herramienta de filtrado lineal y respuesta de sistemas, y la correlación como una medida de similitud estadística. A través de la digitalización bajo el criterio de Nyquist y el análisis espectral de señales biológicas, se pretende que el estudiante evalúe el impacto de estos procedimientos en la detección de patologías y en la mejora de la calidad de la señal, fundamentales para el mundo laboral de un ingeniero biomédico.
 
-## Metodología (JUANITA)
-
-
+## Metodología 
+<p align="justify">
+La práctica de laboratorio No.2 consiste en la realización de la convolución, correlación y transformada de Fourier de diferentes tipos de señales. Para la convolución se tomó el código y el número de identificación de cada estudiante que conforma el grupo, en este caso dos personas; se realizó a mano y se programó en python con ayuda de la función "conv_result", por parte de la correlación se realizó utilizando una señal seno y coseno, las cuales se programaron con "np.correlate", por último para la transformada de Fourier fue necesario adquirir una señal EOG (electrooculograma) con ayuda de un generador de señales, a la cual se le cáculo su respectiva frencuencia de Nyquist, por medio de la fórmula FN = 2fmáx, por consiguiente se adquirió la señal por medio de un DAQ, esta se programó con una frecuencia de muestreo de 1000 Hz. La transformada de Fourier y densidad espectral de potencia se obtuvieron por medio de la libería " scipy import fft", en ambos cálculos se realizó su caracterización estadística con su respectivo histograma.
 
 ## Diagrama de flujo 
-## Parte A
+# Parte A
 <img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/aa6b6fb8-0ef2-4ee1-a2b8-31e82d8671c1" />
 
 
-## Parte B
+# Parte B
 <img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/ab1e597b-e2b3-4dba-9c31-40604c689136" />
 
 ### ¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales? 
