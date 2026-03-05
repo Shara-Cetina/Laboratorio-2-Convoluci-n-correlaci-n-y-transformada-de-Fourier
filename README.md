@@ -28,7 +28,7 @@ Parte C
 <img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/f144d27f-1b10-439f-9899-811cc3e4d650" />
 <img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/c5350d2a-6bee-41de-8e28-2d0f225576db" />
 
-## Análisis Estadístico (JUANITA)
+## Análisis Estadístico
 
 <img width="791" height="463" alt="Convolución 1" src="https://github.com/user-attachments/assets/9e8c4e9c-dd33-4b5d-a249-6a40a4c56514" />
 <img width="792" height="476" alt="Convolucion 2" src="https://github.com/user-attachments/assets/db229acb-70c6-4364-9ed0-517f8c10078b" />
@@ -60,10 +60,10 @@ Por medio de la transformada de Fourier, la densidad espectral de potencia y los
 
 ### Alcance y posibles limitaciones de emplear la transformada de Fourier para aplicaciones en tiempo real.
 
-## Conclusión (JUANITA)
+## Conclusión 
+<p align="justify">
 
-### Reflexión sobre el impacto de las técnicas aplicadas sobre la detección de patologías y/o la evaluación de la calidad de una señal biomédica.
-
+En conclusión, el uso de herramientas matemáticas como la convolución, la correlación, la transformada de Fourier y la densidad espectral de potencia es fundamental en el análisis de señales biomédicas y en la formación de un Ingeniero Biomédico. Estas técnicas permiten estudiar las señales tanto en el dominio del tiempo como en el dominio de la frecuencia, facilitando la extracción de información relevante que no es posible identificar únicamente mediante la observación directa de la señal original. A través de la convolución, es posible analizar la respuesta de sistemas y comprender cómo se modifica una señal al pasar por diferentes procesos o filtros, mediante la correlación, se pueden identificar similitudes entre señales o detectar patrones característicos asociados a eventos fisiológicos. La transformada de Fourier y la densidad espectral de potencia permiten analizar la distribución de la energía de la señal en función de la frecuencia, lo que facilita identificar componentes fisiológicas relevantes y diferenciar entre información útil y ruido. En conjunto, estas herramientas permiten mejorar la calidad de las señales biomédicas, optimizar su procesamiento y contribuir a una detección más precisa de posibles patologías, ya que hacen posible revelar patrones, variaciones o anomalías que no serían evidentes en la señal original. 
 
 ## Discusión
 
