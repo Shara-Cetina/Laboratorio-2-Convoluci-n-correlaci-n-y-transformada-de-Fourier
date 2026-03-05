@@ -34,10 +34,14 @@ Parte C
 <img width="792" height="476" alt="Convolucion 2" src="https://github.com/user-attachments/assets/db229acb-70c6-4364-9ed0-517f8c10078b" />
 
 <p align="justify">
+
+  
 En las convulciones se puede observar como la señal de entrada x[n] y la respuesta al impulso h[n] muestran como se acumula y redistribuye la energía de la señal, generando una salida con mayor duración y picos de amplitud más grandes, debido a que el sistema actúa como un proceso de integración discreta, donde la energía se concentra en ciertos instantes.
   
 <img width="790" height="507" alt="Captura de pantalla 2026-03-05 164832" src="https://github.com/user-attachments/assets/cd7076c9-62fb-4c30-a56c-66b6e47c1eb3" />
 <p align="justify">
+
+  
 La correlación cruzada evidencia el grado de similitud entre dos señales en distintos periodos de tiempo, en este caso se puede observar un máximo de correlación cuando m se vuelve cercano a -2, indicando de esta manera que las señales presentan mayor similitud cuando una de estas se adelanta aproximadamente dos muestras, a su vez, el signo negativo evidencia una diferencia de fase, lo cual tiene demasiado sentido ya que se está trabajando con seno y con coseno.
 
 <img width="791" height="308" alt="EOG" src="https://github.com/user-attachments/assets/7a496598-02c8-44a7-8a1e-c8248ede5f48" />
@@ -46,6 +50,8 @@ La correlación cruzada evidencia el grado de similitud entre dos señales en di
 <img width="728" height="512" alt="H2" src="https://github.com/user-attachments/assets/de3df279-463a-499c-a996-943f9f2ec0f9" />
 
 <p align="justify">
+
+  
 Por medio de la transformada de Fourier, la densidad espectral de potencia y los histogramas asociados a estas permiten observar que la mayor cantidad de energía se encuentra en bajas frecuencias decreciendo progresivamente hacia altas, lo cual es un comportamiento característico de las señales biomédicas, ya que todo proceso fisiológico normalmente ocurre de manera lenta y continua, evitando todo movimiento brusco, mayormente en la señal EOG, debido a que los movimientos mecánicos del ojo son procesos relativamente pausados en comparación con la actividad eléctrica de un nervio o músculo, manejando una frecuencia aproximadamente de 30Hz. 
 
 ## Análisis de Resultados: (SHARA)
