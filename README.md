@@ -30,6 +30,20 @@ Parte C
 
 ## Análisis Estadístico (JUANITA)
 
+<img width="728" height="512" alt="H2" src="https://github.com/user-attachments/assets/de3df279-463a-499c-a996-943f9f2ec0f9" />
+
+<img width="791" height="463" alt="Convolución 1" src="https://github.com/user-attachments/assets/9e8c4e9c-dd33-4b5d-a249-6a40a4c56514" />
+
+<img width="792" height="476" alt="Convolucion 2" src="https://github.com/user-attachments/assets/db229acb-70c6-4364-9ed0-517f8c10078b" />
+
+<img width="790" height="507" alt="Captura de pantalla 2026-03-05 164832" src="https://github.com/user-attachments/assets/cd7076c9-62fb-4c30-a56c-66b6e47c1eb3" />
+
+<img width="791" height="308" alt="EOG" src="https://github.com/user-attachments/assets/7a496598-02c8-44a7-8a1e-c8248ede5f48" />
+
+<img width="716" height="510" alt="H1" src="https://github.com/user-attachments/assets/24f531ef-ebb8-4597-8716-1c9032e86406" />
+
+<img width="790" height="347" alt="TR" src="https://github.com/user-attachments/assets/eef326cc-71b2-489d-b46f-a561fa3d484b" />
+
 ## Análisis de Resultados: (SHARA)
 
 ### Alcance y posibles limitaciones de herramientas matemáticas como la convolución y la correlación en el análisis de señales biomédicas.
