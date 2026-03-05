@@ -45,6 +45,8 @@ En las convulciones se puede observar como la señal de entrada x[n] y la respue
 La correlación cruzada evidencia el grado de similitud entre dos señales en distintos periodos de tiempo, en este caso se puede observar un máximo de correlación cuando m se vuelve cercano a -2, indicando de esta manera que las señales presentan mayor similitud cuando una de estas se adelanta aproximadamente dos muestras, a su vez, el signo negativo evidencia una diferencia de fase, lo cual tiene demasiado sentido ya que se está trabajando con seno y con coseno.
 
 
+
+
 <img width="791" height="308" alt="EOG" src="https://github.com/user-attachments/assets/7a496598-02c8-44a7-8a1e-c8248ede5f48" />
 <img width="716" height="510" alt="H1" src="https://github.com/user-attachments/assets/24f531ef-ebb8-4597-8716-1c9032e86406" />
 <img width="790" height="347" alt="TR" src="https://github.com/user-attachments/assets/eef326cc-71b2-489d-b46f-a561fa3d484b" />
