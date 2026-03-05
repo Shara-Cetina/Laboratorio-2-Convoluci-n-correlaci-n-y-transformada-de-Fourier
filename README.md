@@ -24,8 +24,8 @@ Este proyecto contiene el código y la información para comprender la convoluci
 
 ## Parte C
 <img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/863fddcc-3d6e-40f9-8173-862ea0f89ed9" />
-<img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/c5350d2a-6bee-41de-8e28-2d0f225576db" />
 <img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/f144d27f-1b10-439f-9899-811cc3e4d650" />
+<img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/c5350d2a-6bee-41de-8e28-2d0f225576db" />
 
 ### Análisis de estadisticos (JUANITA)
 
