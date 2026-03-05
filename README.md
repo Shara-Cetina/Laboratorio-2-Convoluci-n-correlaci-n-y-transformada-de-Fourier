@@ -5,6 +5,7 @@
 Este proyecto contiene el código y la información para comprender la convolución y correlación de señales, además de analizar y caracterizar señales biomédicas con ayuda de la transformada de Fourier.
 
 ## Propósito (JUANITA)
+<p align="justify">
 El propósito de este laboratorio es lograr que el estudiante adquiera las capacidades necesarias para aplicar la convolución, la correlación y la Transformada de Fourier en el procesamiento de señales digitales. Se busca que se comprenda la convolución como una herramienta de filtrado lineal y respuesta de sistemas, y la correlación como una medida de similitud estadística. A través de la digitalización bajo el criterio de Nyquist y el análisis espectral de señales biológicas, se pretende que el estudiante evalúe el impacto de estos procedimientos en la detección de patologías y en la mejora de la calidad de la señal, fundamentales para el mundo laboral de un ingeniero biomédico.
 
 ## Metodología (JUANITA)
