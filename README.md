@@ -17,5 +17,7 @@ Este proyecto contiene el código y la información para comprender la convoluci
 ### Reflexión sobre el impacto de las técnicas aplicadas sobre la detección de patologías y/o la evaluación de la calidad de una señal biomédica.
 ## Discusión
 **¿Qué utilidad poseen herramientas como la convolución y la correlación en áreas como procesamiento de imágenes?**
+
 **¿En cuáles contextos de aplicación la transformada de Fourier ofrece un conjunto de características con mayor poder discriminativo que las que suelen considerarse desde el dominio temporal?**
+
 **¿En qué se diferencia la correlación cruzada de la convolución?**
