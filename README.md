@@ -25,7 +25,7 @@ La práctica de laboratorio No.2 consiste en la realización de la convolución,
 
 **¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales?**
 <p align="justify">
-La correlación cruzada es una herramienta util en el procesamiento digital de señales, ya que permite medir la similitud entre dos señales en función de su desfase. Además, se utiliza para encontrar una señal especifica dentro de otra de mayor tamaño, así como para calcular o estimar el retraso temporal de una señal respecto a otra. Tambien facilita la determinacion de las características de un sistema desconocido al comparar la señal de entrada con la señal de salida.
+La correlación cruzada es una herramienta útil en el procesamiento digital de señales, ya que permite medir la similitud entre dos señales en función de su desfase. Además, se utiliza para encontrar una señal específica dentro de otra de mayor tamaño, así como para calcular o estimar el retraso temporal de una señal respecto a otra. También facilita la determinación de las características de un sistema desconocido al comparar la señal de entrada con la señal de salida.
 
 
 ### Parte C
