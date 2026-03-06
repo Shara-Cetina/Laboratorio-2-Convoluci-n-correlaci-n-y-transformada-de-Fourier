@@ -72,6 +72,9 @@ En conclusión, el uso de herramientas matemáticas como la convolución, la cor
 
 **¿Qué utilidad poseen herramientas como la convolución y la correlación en áreas como procesamiento de imágenes?** (SHARA)
 
-**¿En cuáles contextos de aplicación la transformada de Fourier ofrece un conjunto de características con mayor poder discriminativo que las que suelen considerarse desde el dominio temporal?** (JUANITA)
+**¿En cuáles contextos de aplicación la transformada de Fourier ofrece un conjunto de características con mayor poder discriminativo que las que suelen considerarse desde el dominio temporal?** 
+
+<p align="justify">
+La transformada de Fourier ofrece mayor poder discriminativo que el análisis en el dominio temporal cuando la información relevante de la señal está asociada a su contenido en frecuencia. Esto ocurre especialmente en el análisis de señales biomédicas como EEG, ECG, EMG o EOG, donde diferentes estados fisiológicos o patologías producen cambios en determinadas bandas de frecuencia, mientras que en el dominio temporal estas diferencias son muy poco evidentes.
 
 **¿En qué se diferencia la correlación cruzada de la convolución?** (SHARA)
