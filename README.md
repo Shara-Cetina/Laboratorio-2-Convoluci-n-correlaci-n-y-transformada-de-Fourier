@@ -58,9 +58,9 @@ La correlación cruzada evidencia el grado de similitud entre dos señales en di
 Por medio de la transformada de Fourier, la densidad espectral de potencia y los histogramas asociados a estas permiten observar que la mayor cantidad de energía se encuentra en bajas frecuencias decreciendo progresivamente hacia altas, lo cual es un comportamiento característico de las señales biomédicas, ya que todo proceso fisiológico normalmente ocurre de manera lenta y continua, evitando todo movimiento brusco, mayormente en la señal EOG, debido a que los movimientos mecánicos del ojo son procesos relativamente pausados en comparación con la actividad eléctrica de un nervio o músculo, manejando una frecuencia aproximadamente de 30Hz. 
 
 ## Análisis de Resultados:
-
+<p align="justify">
 Las herramientas matemáticas como la convolución y la correlación son fundamentales en el análisis de señales biomédicas, ya que permiten reducir el ruido mediante filtros digitales, medir la similitud entre dos señales, estimar el desfase o el retraso temporal ellas, modelar la forma en que un sistema fisiologico responde a un estimulo e identificar patrones o eventos especificos como las ondas de un ECG o la actividad registrada un EMG. Sin embargo, estas herramientas presentan ciertas limitaciones, una de ellas es la suposicion de que el sistema es lineal e invariante en el tiempo, condicion que no se cumplen en todos los sistemas biologicos. Además, las señales biomedicas suelemn contener ruido que puede afectar el proceso de filtrado. Por ultimo, la longitud de la señal puede ser un fcator considerable, lo que requiere métodos de procesamiento mas eficientes y, a su vez, una mayor capcidad computacional.
-
+<p align="justify">
 Por otro lado, la transformada de Fourier es una herramienta fundamental para convertir señales del dominio del tiempo al dominio de la frecuencia en tiempo real. Esto permite identificar las frecuencias presentes en una señal, implementar filtrados para frecuencias especificas durante la adquisición de la señal y analizar cambios en su espectro. Además, al utilizar su variante rapida, conocida como FFT, es posible reducir significativamente el tiempo de cálculo, esto facilita su aplicacion en sistemas que requieren una respuesta rapida. Sin embargo, tambien presenta algunas limitaciones. Por ejemplo, pueden generarse retrasos en el procesamiento debido a la necesidad de utilizar ventanas de tiempo largas para obtener una mayor precisión en frecuencia. Asimismo, esta tecnica asume que la señal es invariable dentro del intervalo realizado, lo cual no siempre ocurre en señales reales, ya que muchas de ellas cambian con el tiempo.
 
 ## Conclusión 
@@ -71,11 +71,14 @@ En conclusión, el uso de herramientas matemáticas como la convolución, la cor
 ## Discusión
 
 
-**¿Qué utilidad poseen herramientas como la convolución y la correlación en áreas como procesamiento de imágenes?** (SHARA)
+**¿Qué utilidad poseen herramientas como la convolución y la correlación en áreas como procesamiento de imágenes?**
+<p align="justify">
+Las herramientas como la convolución y la correlación se utilizan en el procesamiento de imagenes para aplicar filtros especiales que pemriten suavizar la imagen o resaltar ciertas carcaterisiticas, como la detección de bordes y el aumento de nitidez. Además, estas técnicas permiten medir las similitudes entre dos imagenes o entre una imagen y una plantilla, alinear imagenes tomadas en diferentes momentos e identificar desplazamientos entre cuadros consecutivos de una secuencia de imagenes.
 
 **¿En cuáles contextos de aplicación la transformada de Fourier ofrece un conjunto de características con mayor poder discriminativo que las que suelen considerarse desde el dominio temporal?** 
 
 <p align="justify">
 La transformada de Fourier ofrece mayor poder discriminativo que el análisis en el dominio temporal cuando la información relevante de la señal está asociada a su contenido en frecuencia. Esto ocurre especialmente en el análisis de señales biomédicas como EEG, ECG, EMG o EOG, donde diferentes estados fisiológicos o patologías producen cambios en determinadas bandas de frecuencia, mientras que en el dominio temporal estas diferencias son muy poco evidentes.
 
-**¿En qué se diferencia la correlación cruzada de la convolución?** (SHARA)
+**¿En qué se diferencia la correlación cruzada de la convolución?**
+<p align="justify">
