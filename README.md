@@ -13,11 +13,14 @@ El propósito de este laboratorio es lograr que el estudiante adquiera las capac
 La práctica de laboratorio No.2 consiste en la realización de la convolución, correlación y transformada de Fourier de diferentes tipos de señales. Para la convolución se tomó el código y el número de identificación de cada estudiante que conforma el grupo, en este caso dos personas; se realizó a mano y se programó en python con ayuda de la función "conv_result", por parte de la correlación se realizó utilizando una señal seno y coseno, las cuales se programaron con "np.correlate", por último para la transformada de Fourier fue necesario adquirir una señal EOG (electrooculograma) con ayuda de un generador de señales, a la cual se le cáculo su respectiva frencuencia de Nyquist, por medio de la fórmula FN = 2fmáx, por consiguiente se adquirió la señal por medio de un DAQ, esta se programó con una frecuencia de muestreo de 1000 Hz. La transformada de Fourier y densidad espectral de potencia se obtuvieron por medio de la libería " scipy import fft", en ambos cálculos se realizó su caracterización estadística con su respectivo histograma.
 
 ## Diagrama de flujo 
-Parte A
+
+### Parte A
+
 <img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/aa6b6fb8-0ef2-4ee1-a2b8-31e82d8671c1" />
 
 
-Parte B
+### Parte B
+
 <img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/ab1e597b-e2b3-4dba-9c31-40604c689136" />
 
 **¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales?**
@@ -25,7 +28,8 @@ Parte B
 La correlación cruzada es una herramienta util en el procesamiento digital de señales, ya que permite medir la similitud entre dos señales en función de su desfase. Además, se utiliza para encontrar una señal especifica dentro de otra de mayor tamaño, así como para calcular o estimar el retraso temporal de una señal respecto a otra. Tambien facilita la determinacion de las características de un sistema desconocido al comparar la señal de entrada con la señal de salida.
 
 
-Parte C
+### Parte C
+
 <img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/863fddcc-3d6e-40f9-8173-862ea0f89ed9" />
 <img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/f144d27f-1b10-439f-9899-811cc3e4d650" />
 <img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/c5350d2a-6bee-41de-8e28-2d0f225576db" />
