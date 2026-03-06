@@ -57,9 +57,9 @@ La correlación cruzada evidencia el grado de similitud entre dos señales en di
 <p align="justify">  
 Por medio de la transformada de Fourier, la densidad espectral de potencia y los histogramas asociados a estas permiten observar que la mayor cantidad de energía se encuentra en bajas frecuencias decreciendo progresivamente hacia altas, lo cual es un comportamiento característico de las señales biomédicas, ya que todo proceso fisiológico normalmente ocurre de manera lenta y continua, evitando todo movimiento brusco, mayormente en la señal EOG, debido a que los movimientos mecánicos del ojo son procesos relativamente pausados en comparación con la actividad eléctrica de un nervio o músculo, manejando una frecuencia aproximadamente de 30Hz. 
 
-## Análisis de Resultados: (SHARA)
+## Análisis de Resultados:
 
-### Alcance y posibles limitaciones de herramientas matemáticas como la convolución y la correlación en el análisis de señales biomédicas.
+Las herramientas matemáticas como la convolución y la correlación son fundamentales en el análisis de señales biomédicas, ya que permiten reducir el ruido mediante filtros digitales, medir la similitud entre dos señales, estimar el desfase o el retraso temporal ellas, modelar la forma en que un sistema fisiologico responde a un estimulo e identificar patrones o eventos especificos como las ondas de un ECG o la actividad registrada un EMG. Sin embargo, estas herramientas presentan ciertas limitaciones, una de ellas es la suposicion de que el sistema es lineal e invariante en el tiempo, condicion que no se cumplen en todos los sistemas biologicos. Además, las señales biomedicas suelemn contener ruido que puede afectar el proceso de filtrado. Por ultimo, la longitud de la señal puede ser un fcator considerable, lo que requiere métodos de procesamiento mas eficientes y, a su vez, una mayor capcidad computacional.
 
 ### Alcance y posibles limitaciones de emplear la transformada de Fourier para aplicaciones en tiempo real.
 
