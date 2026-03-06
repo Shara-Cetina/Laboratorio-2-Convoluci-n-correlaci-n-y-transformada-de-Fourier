@@ -90,7 +90,7 @@ En conclusión, el uso de herramientas matemáticas como la convolución, la cor
 
 **¿Qué utilidad poseen herramientas como la convolución y la correlación en áreas como procesamiento de imágenes?**
 <p align="justify">
-Las herramientas como la convolución y la correlación se utilizan en el procesamiento de imagenes para aplicar filtros especiales que pemriten suavizar la imagen o resaltar ciertas carcaterisiticas, como la detección de bordes y el aumento de nitidez. Además, estas técnicas permiten medir las similitudes entre dos imagenes o entre una imagen y una plantilla, alinear imagenes tomadas en diferentes momentos e identificar desplazamientos entre cuadros consecutivos de una secuencia de imagenes.
+Las herramientas como la convolución y la correlación se utilizan en el procesamiento de imagenes para aplicar filtros especiales que peemiten suavizar la imagen o resaltar ciertas caracterisiticas, como la detección de bordes y el aumento de nitidez. Además, estas técnicas permiten medir las similitudes entre dos imagenes o entre una imagen y una plantilla, alinear imagenes tomadas en diferentes momentos e identificar desplazamientos entre cuadros consecutivos de una secuencia de imagenes.
 
 **¿En cuáles contextos de aplicación la transformada de Fourier ofrece un conjunto de características con mayor poder discriminativo que las que suelen considerarse desde el dominio temporal?** 
 
