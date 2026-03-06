@@ -21,6 +21,7 @@ Parte B
 <img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/ab1e597b-e2b3-4dba-9c31-40604c689136" />
 
 **¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales?**
+<p align="justify">
 La correlación cruzada es una herramienta util en el procesamiento digital de señales, ya que permite medir la similitud entre dos señales en función de su desfase. Además, se utiliza para encontrar una señal especifica dentro de otra de mayor tamaño, así como para calcular o estimar el retraso temporal de una señal respecto a otra. Tambien facilita la determinacion de las características de un sistema desconocido al comparar la señal de entrada con la señal de salida.
 
 
@@ -28,6 +29,18 @@ Parte C
 <img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/863fddcc-3d6e-40f9-8173-862ea0f89ed9" />
 <img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/f144d27f-1b10-439f-9899-811cc3e4d650" />
 <img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/c5350d2a-6bee-41de-8e28-2d0f225576db" />
+
+## Calculos manuales
+
+### Datos Shara 
+
+<img width="887" height="591" alt="Shara1" src="https://github.com/user-attachments/assets/7d867ac9-fd03-438f-9e29-7e39b9846d5d" />
+<img width="792" height="582" alt="Shara2" src="https://github.com/user-attachments/assets/ab90f52c-3dfe-442e-b02b-e76cedf99b29" />
+
+### Datos Juanita
+
+<img width="477" height="612" alt="Juanita1" src="https://github.com/user-attachments/assets/7b1583f8-a725-4a4b-8550-b2b762df42a7" />
+<img width="443" height="612" alt="Juanita2" src="https://github.com/user-attachments/assets/68effbfd-8dc9-4fa3-b2a6-0ece5851032e" />
 
 ## Análisis Estadístico
 
@@ -82,3 +95,4 @@ La transformada de Fourier ofrece mayor poder discriminativo que el análisis en
 
 **¿En qué se diferencia la correlación cruzada de la convolución?**
 <p align="justify">
+La correlación cruzada consiste en desplazar una señal directamente sobre otra para poder medir el grado de similitud en cada posición y determinar el desfase temporal donde coinciden mejor. Además, su resultado indica que tan parecidas son las señales segun el desplazamiento aplicado. Por otro lado, la convolución invierte una de las señales antes de realizar la operación de multiplicacion y suma con la otra señal, para despues desplazarla. El resultado de la convolución representa la respuesta del sistema cuando una señal lo atraviesa.
